@@ -2,42 +2,44 @@
 
 ### Front-End Developer | HTML | CSS | JavaScript | Learning React
 
-I build clean, responsive and user-friendly websites.
+I enjoy building clean, responsive, and user-friendly websites. I'm continuously improving my skills in front-end development and cybersecurity, and I'm open to freelance and remote opportunities.
 
-## 🚀 Skills
+## 🚀 Tech Stack
+
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6+)
 - Git & GitHub
 - Responsive Web Design
 
 ## 🌱 Currently Learning
+
 - React
 - TypeScript
+- Cybersecurity Fundamentals
 
-## 📫 Contact Me
+## 📂 Featured Projects
 
-Email: utazifredrick530@gmail.com
+- Landing Page
+- To-Do App
+- Calculator
+- Weather App
+- Portfolio Website
 
-LinkedIn:
-(https://www.linkedin.com/in/fredrickutazi/)
+## 📫 Connect With Me
 
-## Goals
+- 📧 Email: utazifredrick530@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/fredrickutazi/
+
+## 📍 Location
+
+Nsukka, Enugu State, Nigeria
+
+## 🎯 Goals
+
 - Build modern web applications
 - Work with international clients
 - Become a professional Front-End Engineer
+- Contribute to open-source projects
 
-<!--
-**utazifredrick/utazifredrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
