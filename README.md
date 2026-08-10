@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Utazi Fredrick
+
+### Front-End Developer | HTML | CSS | JavaScript | Learning React
+
+I build clean, responsive and user-friendly websites.
+
+## 🚀 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Responsive Web Design
+
+## 🌱 Currently Learning
+- React
+- TypeScript
+
+## 📫 Contact Me
+
+Email: utazifredrick530@gmail.com
+
+LinkedIn:
+(https://www.linkedin.com/in/fredrickutazi/)
+
+## Goals
+- Build modern web applications
+- Work with international clients
+- Become a professional Front-End Engineer
 
 <!--
 **utazifredrick/utazifredrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
