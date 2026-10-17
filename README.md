@@ -9,21 +9,21 @@ I enjoy building clean, responsive, and user-friendly websites. I'm continuously
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- React
+- Tailwind CSS
 - Git & GitHub
 - Responsive Web Design
 
 ## 🌱 Currently Learning
 
-- React
-- TypeScript
+- Node.js + Express
+- PostgreSQL
+- React Native + Expo
 - Cybersecurity Fundamentals
 
 ## 📂 Featured Projects
 
-- Landing Page
-- To-Do App
-- Calculator
-- Weather App
+- Productivity App
 - Portfolio Website
 
 ## 📫 Connect With Me
